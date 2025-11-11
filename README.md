@@ -1,33 +1,33 @@
-# 💰 Personal Finance Tracker (Python)
+#  Personal Finance Tracker (Python)
 
 A smart **Personal Finance Tracker** built in Python to help users analyze, visualize, and optimize their spending habits.  
 It automatically categorizes expenses, tracks monthly budgets, and provides personalized insights — enabling **data-driven financial decisions** similar to how companies like **IDFC First Bank** and **Sciative Solutions** use data analytics for customer and revenue optimization.
 
 ---
 
-## 🚀 Features
+##  Features
 
-✅ **Automatic Transaction Categorization**  
+ **Automatic Transaction Categorization**  
 Classifies spending into categories (Food, Rent, Utilities, Entertainment, etc.) using keyword-based logic.  
 
-✅ **Spending Analytics Dashboard**  
+ **Spending Analytics Dashboard**  
 Displays total income, expenses, and savings using interactive visualizations (Matplotlib / Plotly).  
 
-✅ **Monthly Budget Alerts**  
+ **Monthly Budget Alerts**  
 Compares your actual spending vs. planned budget, and highlights overspending categories.  
 
-✅ **Savings Insights**  
+ **Savings Insights**  
 Provides intelligent tips — e.g., *“Your entertainment expenses increased 22% this month.”*  
 
-✅ **Data Import Support**  
+ **Data Import Support**  
 Accepts `.csv` or `.xlsx` bank statement files and parses them automatically.  
 
-✅ **Report Export**  
+ **Report Export**  
 Generates summarized `.csv` or `.pdf` reports for personal records or sharing.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology Used |
 |-------|------------------|
