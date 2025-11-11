@@ -40,4 +40,15 @@ Generates summarized `.csv` or `.pdf` reports for personal records or sharing.
 ---
 
 ## 🗂️ Project Structure
-
+Personal-Finance-Tracker/
+│
+├── data/ # Sample bank statement data
+├── scripts/ # Core logic files
+│ ├── categorize.py # Categorization logic
+│ ├── analyze.py # Spending analysis
+│ ├── visualize.py # Charts and graphs
+│
+├── app.py # Main Streamlit or CLI application
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── .gitignore
